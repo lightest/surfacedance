@@ -4,6 +4,8 @@ Lesson 27 of [threejs-journey](https://threejs-journey.com/). This time with add
 
 Drag and drop any audio file to play it or image to change texture.
 
+Refer to this [thread](https://twitter.com/nikitayells/status/1658277615378264065) for details on how it works.
+
 ![image](https://github.com/lightest/surfacedance/assets/2725889/1883c404-c97a-4602-bdbd-b5d80e07fbab)
 
 ## Setup

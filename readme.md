@@ -1,6 +1,6 @@
 # Three.js Journey 27
 
-Lesson 27 of threejs-journey. This with added capacity for the surface to dance to the music and change texture on the fly.
+Lesson 27 of [threejs-journey](https://threejs-journey.com/). This with added capacity for the surface to dance to the music and change texture on the fly.
 
 Drag and drop any audio file to play it or image to change texture.
 
